@@ -1,0 +1,13 @@
+.search-user-wrapper{
+    height: 50px;
+    margin: 25px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.search-user-wrapper>input{
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+    font-size: 17px;
+}

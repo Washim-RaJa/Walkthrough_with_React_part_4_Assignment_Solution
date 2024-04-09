@@ -1,0 +1,26 @@
+.user-details-wrapper{
+    position: relative;
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+}
+
+.user-details-image{
+    width: 500px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.user-details-name{
+    position: absolute;
+    top: 335px;
+    background-color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
